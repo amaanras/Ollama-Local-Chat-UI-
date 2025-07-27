@@ -1,0 +1,19 @@
+# Core dependencies
+streamlit>=1.28.0
+requests>=2.31.0
+python-dotenv>=1.0.0
+psutil>=5.9.0
+aiohttp>=3.9.0
+
+# Optional but recommended
+pandas>=2.0.0
+plotly>=5.17.0
+markdown>=3.4.1
+pygments>=2.16.0
+
+# For authentication (optional)
+streamlit-authenticator>=0.2.3
+
+# For file upload support (optional)
+pypdf2>=3.0.0
+python-docx>=0.8.11
